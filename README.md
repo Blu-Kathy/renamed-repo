@@ -4,7 +4,7 @@
 testing
 
 
-password = 'xCMVBSDKVHKSDufiuq!!1'
+password = 'xCMVBSDKVHKSDufiuq!!1'  # BluBracketIgnore
 
 
 
